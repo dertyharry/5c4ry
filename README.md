@@ -7,14 +7,14 @@
 
 **Python 3.6 or higher is mandatory**
 
-# Linux/macOS
-```
-python3 -m pip install -U discord.py
-```
-# Windows
-```
-py -3 -m pip install -U discord.py
-```
+  # Linux/macOS
+  ```
+  python3 -m pip install -U discord.py
+  ```
+  # Windows
+  ```
+  py -3 -m pip install -U discord.py
+  ```
 
 ## Usage
 * "abracadabra" - Nukes the server
