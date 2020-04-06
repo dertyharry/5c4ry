@@ -1,9 +1,10 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/download/releases/3.0/)
 # 5cr4ry
 >Self bot script to destroy Discord servers. 
+>ATTENTION: the string for the channel names is set to 'discord.gg/japan/' on default.
+
 
 ## Installation
----------------
 
 **Python 3.6 or higher is mandatory**
 
